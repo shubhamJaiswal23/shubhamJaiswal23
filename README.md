@@ -4,7 +4,7 @@ I'm a skilled, self-taught web developer with a passion for creating web applica
 
 ## 👨 About Me
 
-- 🎓 Graduated from the College of Engineering Roorkee in December 2021 with a degree in Mechanical Engineering.
+- 🎓 Graduated from the College of Engineering Roorkee in December, 2021 with a degree in Mechanical Engineering.
 - 💼 Worked as an Assistant Production Coordinator at Rico Auto Industries Ltd. from April, 2022 to July, 2022.
 - 💼 Worked as a Production Coordinator at M V Engineering Pvt. Ltd. from July, 2022 to June, 2023.
 - 🌱 Currently, I am vigorously learning about web development and the core working principles of economics and business to create an impact through my work.
