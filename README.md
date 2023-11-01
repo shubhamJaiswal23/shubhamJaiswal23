@@ -1,6 +1,6 @@
 # Hey there! I'm Shubham 👋
 
-I'm a skilled, self-taught web developer with a passion for creating web applications using JavaScript and Tailwind CSS. I specialize in various web development frameworks like React and Next.js. I'm looking to learn by challenging my own limits and want to see how far I can go.
+I'm a skilled, self-taught web developer with a passion for creating web applications using various web technologies. I specialize in different web development frameworks like React and Next.js. I'm looking to learn new things by challenging my own limits.
 
 ## 👨 About Me
 
