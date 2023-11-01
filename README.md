@@ -10,7 +10,7 @@ I'm a skilled, self-taught web developer with a passion for creating web applica
 - 🌱 Currently, I am vigorously learning about web development and the core working principles of economics and business to create an impact through my work.
 - 🚀 Open to work and collaboration for challenging roles in the area of Web Development.
 
-##💻 Tech Stack
+## 💻 Tech Stack
 
 Here are some of the technologies and tools I'm familiar with:
 
