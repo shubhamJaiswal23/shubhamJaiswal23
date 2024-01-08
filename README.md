@@ -19,14 +19,12 @@ Here are some of the technologies and tools I'm familiar with:
 <a target="_blank" rel="noopener noreferrer nofollow" href="https://img.shields.io/badge/-HTML5-333333?style=flat&logo=HTML5"><img src="https://img.shields.io/badge/-HTML5-333333?style=flat&logo=HTML5" alt="HTML5"  style="max-width: 100%;"></a>
 <a target="_blank" rel="noopener noreferrer nofollow" href="https://img.shields.io/badge/-CSS-333333?style=flat&logo=CSS3&logoColor=1572B6"><img src="https://img.shields.io/badge/-CSS-333333?style=flat&logo=CSS3&logoColor=1572B6" alt="CSS" style="max-width: 100%;"></a>
 <a target="_blank" rel="noopener noreferrer nofollow" href="https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript"><img src="https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript" alt="JavaScript" style="max-width: 100%;"></a>
-<a target="_blank" rel="noopener noreferrer nofollow" href="https://img.shields.io/badge/Tailwind%20CSS-333333?style=flat&logo=tailwindcss">
-  <img src="https://img.shields.io/badge/Tailwind%20CSS-333333?style=flat&logo=tailwindcss" alt="Tailwind CSS" style="max-width: 100%;">
+<a target="_blank" rel="noopener noreferrer nofollow" href="https://img.shields.io/badge/php-333333?style=flat&logo=php">
+  <img src="https://img.shields.io/badge/php-333333?style=flat&logo=php" alt="php" style="max-width: 100%;">
 </a>
 <a target="_blank" rel="noopener noreferrer nofollow" href="https://img.shields.io/badge/-React-333333?style=flat&logo=react"><img src="https://img.shields.io/badge/-React-333333?style=flat&logo=react" alt="React" style="max-width: 100%;"></a>
-<a target="_blank" rel="noopener noreferrer nofollow" href="https://img.shields.io/badge/Next.js-333333?style=flat&logo=next.js">
-  <img src="https://img.shields.io/badge/Next.js-333333?style=flat&logo=next.js" alt="Next.js" style="max-width: 100%;">
-</a>
 <a target="_blank" rel="noopener noreferrer nofollow" href="https://img.shields.io/badge/-Node.js-333333?style=flat&logo=node.js"><img src="https://img.shields.io/badge/-Node.js-333333?style=flat&logo=node.js" alt="Node.js" style="max-width: 100%;"></a>
+<a target="_blank" rel="noopener noreferrer nofollow" href="https://img.shields.io/badge/Express.js-333333?style=flat&logo=express"><img src="https://img.shields.io/badge/Express.js-333333?style=flat&logo=express" alt="Express.js" style="max-width: 100%;"></a>
 
 </li>
 <li>🛢 &nbsp;
